@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "agentic-os": {
+      "source": "affaan-m/everything-claude-code",
+      "sourceType": "github",
+      "skillPath": "skills/agentic-os/SKILL.md",
+      "computedHash": "69757eea3f094e9eb00af786e14ec56f06d9b359ebaf9b9467442f90a3529de6"
+    }
+  }
+}
